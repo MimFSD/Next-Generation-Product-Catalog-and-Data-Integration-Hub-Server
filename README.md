@@ -4,7 +4,7 @@
 
 ---
 
-# Next-Generation Product Catalog and Data Integration Hub
+### Next-Generation Product Catalog and Data Integration Hub
 
 ## Table of Contents
 
